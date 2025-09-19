@@ -1,4 +1,4 @@
-# Hospital_Excel_DashBoard
+# Hospital_ER-Analytics_Dashboard
 
 ![Hospital Dashboard Final ](https://github.com/user-attachments/assets/b786b0e3-f21a-41c9-ab42-3b7e4cdfb026)
 
